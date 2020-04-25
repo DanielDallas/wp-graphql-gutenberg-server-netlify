@@ -1,0 +1,24 @@
+{
+  "name": "wp-graphql-gutenberg-server-netlify",
+  "description": "GraphQL Gutenberg Server Netlify",
+  "main": "src/index.js",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "name": "Peter Pristas",
+      "email": "pristas.peter@gmail.com",
+      "url": "https://github.com/pristas-peter"
+    }
+  ],
+  "author": "Peter Pristas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pristas-peter/wp-graphql-gutenberg-server/issues"
+  },
+  "homepage": "https://github.com/pristas-peter/wp-graphql-gutenberg-server#readme",
+  "dependencies": {
+    "chrome-aws-lambda": "^2.1.1",
+    "puppeteer-core": "^3.0.1",
+    "wp-graphql-gutenberg-server-core": "^0.1.0"
+  }
+}
